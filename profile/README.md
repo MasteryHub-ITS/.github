@@ -1,6 +1,6 @@
-# GurusLabs
+# AMMHITS
 
-Welcome to GurusLabs! We are a dynamic startup software house dedicated to providing innovative and reliable software solutions. Our team of talented developers, designers, and project managers work collaboratively to turn your ideas into reality.
+Welcome to AMMHITS! We are a dynamic startup software house dedicated to providing innovative and reliable software solutions. Our team of talented developers, designers, and project managers work collaboratively to turn your ideas into reality.
 
 ## Table of Contents
 
@@ -13,11 +13,11 @@ Welcome to GurusLabs! We are a dynamic startup software house dedicated to provi
 
 ## About Us
 
-GurusLabs is a startup software house founded in 2024. Our mission is to deliver high-quality software solutions that drive business growth and efficiency. We specialize in a wide range of technologies and cater to various industries.
+AMMHITS is a startup software house founded in 2024. Our mission is to deliver high-quality software solutions that drive business growth and efficiency. We specialize in a wide range of technologies and cater to various industries.
 
 ## Services
 
-At GurusLabs, we offer a comprehensive suite of services:
+At AMMHITS, we offer a comprehensive suite of services:
 
 - **Custom Software Development**: Tailored solutions to meet your unique business needs.
 - **Web Development**: Responsive and scalable web applications.
@@ -61,13 +61,13 @@ If you are interested in working with us or have a project in mind, follow these
 
 We'd love to hear from you! Feel free to reach out to us:
 
-- **Email**: contact@guruslabs.com
+- **Email**: contact@AMMHITS.com
 - **Phone**: +123-456-7890
 - **Address**: Nasr City, Cairo, Egypt
-- **Website**: [www.guruslabs.com](http://www.guruslabs.com)
-- **LinkedIn**: [GurusLabs LinkedIn](https://www.linkedin.com/company/guruslabs)
-- **Twitter**: [@GurusLabs](https://twitter.com/GurusLabs)
+- **Website**: [www.AMMHITS.com](http://www.AMMHITS.com)
+- **LinkedIn**: [AMMHITS LinkedIn](https://www.linkedin.com/company/AMMHITS)
+- **Twitter**: [@AMMHITS](https://twitter.com/AMMHITS)
 
 ---
 
-Thank you for considering GurusLabs for your software development needs. We look forward to partnering with you to create outstanding software solutions!
+Thank you for considering AMMHITS for your software development needs. We look forward to partnering with you to create outstanding software solutions!
