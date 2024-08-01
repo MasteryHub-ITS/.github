@@ -1,6 +1,6 @@
 # AMMHITS
 
-Welcome to AMMHITS! We are a dynamic startup software house dedicated to providing innovative and reliable software solutions. Our team of talented developers, designers, and project managers work collaboratively to turn your ideas into reality.
+Welcome to AMMHITS! We are a dynamic startup software house that provides innovative and reliable software solutions. Our talented developers, designers, and project managers collaborate to turn your ideas into reality.
 
 ## Table of Contents
 
